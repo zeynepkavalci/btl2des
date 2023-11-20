@@ -13,12 +13,12 @@ Deep eutectic solvent (DES) is non-toxic, non-volatile, non-flammable, inexpensi
 
 Two types of DES (glyceline and ethaline) are compared while having the same concentration ratios. With this, how different types of DES at the same concentration would affect the stability of lipase and how the solvent structure would change were checked using computational methods. The systems were prepared, open structure lipase was dissolved in glycerol, glyceline and ethaline. 
 
-*Solvent Composition of Each System*
-**Glycerol 100% System:** Pure glycerol used as control.
-**Glyceline 2:1 System:** Glycerol 2:1 ChCl
-**Glyceline 6:1 System:** Glycerol 6:1 ChCl
-**Ethalin 2:1 System:** Ethylene glycol 2:1 ChCl
-**Ethalin 6:1 System:** Ethylene glycol 6:1 ChCl
+**Solvent Composition of Each System**
+- Glycerol 100% System: Pure glycerol used as control.
+- Glyceline 2:1 System: Glycerol 2:1 ChCl
+- Glyceline 6:1 System: Glycerol 6:1 ChCl
+- Ethaline 2:1 System: Ethylene glycol 2:1 ChCl
+- Ethaline 6:1 System: Ethylene glycol 6:1 ChCl
 
 **Figure 3: Snapshots of the MD systems are shown after PACKMOL, before MD simulations. The circle illustrations focus on the close-up representation of the solvent structure. Blue molecules are glycerol, green ones are ethylene glycol, gray molecules are choline, and the orange dots represent chloride ions.**
 
