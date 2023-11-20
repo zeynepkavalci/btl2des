@@ -7,7 +7,7 @@ Lipase catalyzes the hydrolysis of carboxylic ester bonds of lipids. This enzyme
 
 Deep eutectic solvent (DES) is non-toxic, non-volatile, non-flammable, inexpensive, biodegradable, and easy to prepare, unlike organic solvents. It has been effectively used for lipase-catalyzed reactions. Production of pharmaceuticals, biofuels and agrochemicals are examples of lipase applications. DES can be prepared by mixing a hydrogen bond acceptor and a hydrogen bond donor. They form a hydrogen bond network and with this, it stays as liquid. DES is very important as it can be used as a solvent, substrate and both solvent and substrate in an enzymatic reaction. DESs are very viscous, and enzymes need flexibility to work. 
 
---Figure 2: Two different types of DES, glyceline (glycerol-based DES) and ethaline (ethylene glycol-based DES), are shown as 2D structures. Choline chloride is the hydrogen bond acceptor (HBA), glycerol and ethylene glycol are the hydrogen bond donor (HBD).**
+**Figure 2: Two different types of DES, glyceline (glycerol-based DES) and ethaline (ethylene glycol-based DES), are shown as 2D structures. Choline chloride is the hydrogen bond acceptor (HBA), glycerol and ethylene glycol are the hydrogen bond donor (HBD).**
 
 ![fig5.](https://github.com/zeynepkavalci/btl2des/blob/main/figures/fig5.jpg)
 
