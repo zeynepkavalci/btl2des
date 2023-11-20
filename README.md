@@ -18,3 +18,22 @@ Two types of DES (glyceline and ethaline) are compared while having the same con
 ![fig4.png](https://github.com/zeynepkavalci/btl2des/blob/main/figures/fig4.png)
 
 Thermoalkalophilic lipases show promise in DES-based industrial reactions. Findings of this study provided novel insights into the optimal lipase stability in DESs by tailoring physiochemical properties as well as composition of the solvent.
+
+
+*Results*
+
+**Figure 4: Pairwise RMSD graphs of systems at two different temperatures.**
+
+![1](https://github.com/zeynepkavalci/btl2des/blob/main/results/result1.png)
+
+**Figure 5: RMSF graphs of the systems at two different temperatures, 373K and 298K.**
+
+![2](https://github.com/zeynepkavalci/btl2des/blob/main/results/result2.png)
+
+**Figure 6: Rg of systems at two different temperatures, 373K and 298K.**
+
+![3](https://github.com/zeynepkavalci/btl2des/blob/main/results/result3.png)
+
+**Figure 7: SASA graphs of systems at two different temperatures, 373K and 298K.**
+
+![4](https://github.com/zeynepkavalci/btl2des/blob/main/results/result4.png)
