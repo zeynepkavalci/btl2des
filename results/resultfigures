@@ -1,17 +1,1 @@
-*Results*
 
-**Figure 1: Pairwise RMSD graphs of systems at two different temperatures.**
-
-![1](https://github.com/zeynepkavalci/btl2des/blob/main/results/result1.png)
-
-**Figure 2: RMSF graphs of the systems at two different temperatures, 373K and 298K.**
-
-![2](https://github.com/zeynepkavalci/btl2des/blob/main/results/result2.png)
-
-**Figure 3: Rg of systems at two different temperatures, 373K and 298K.**
-
-![3](https://github.com/zeynepkavalci/btl2des/blob/main/results/result3.png)
-
-**Figure 4: SASA graphs of systems at two different temperatures, 373K and 298K.**
-
-![4](https://github.com/zeynepkavalci/btl2des/blob/main/results/result4.png)
